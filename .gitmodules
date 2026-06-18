@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "eefAnalytics"]
 	path = eefAnalytics
-	url = https://github.com/germaine86/eefanalytics
+	url = https://github.com/cran/eefAnalytics
